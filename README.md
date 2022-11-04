@@ -2,11 +2,11 @@
 
 - 👀 I’m interested in Python WEB & Spider Development
 - 🌱 I’m currently learning Golang to do something different
-- 💞️ I’m looking to collaborate on ...
-# Contact me 📫
- If you want to reach me, please following the wechat public account "[Python实验楼](https://mp.weixin.qq.com/profile?src=3&timestamp=1665508327&ver=1&signature=XGEJtYovkc3XulB8dQiED-d59j4UCo4nlN7FBFPnf1awJfV-c-7nvSz6E943WqGKNpdSveWw6U9Oo1LcpsGlHw==)" to get more infomation
 
-[![wechat public account](https://i.postimg.cc/gJH66wFT/image.png)](https://postimg.cc/vgDmJZmr)
+# Contact me 📫
+ If you want to reach me, please following the wechat public account "[Python实验楼](https://weixin.sogou.com/weixin?query=Python%E5%AE%9E%E9%AA%8C%E6%A5%BC)" to get more infomation
+
+[![wechat public account](https://i.postimg.cc/gJH66wFT/image.png)](https://i.postimg.cc/gJH66wFT/image.png)
 
 # Statistics 🚀
 ![XiangtingLee's github stats](https://github-readme-stats.vercel.app/api?username=XiangtingLee&theme=merko&include_all_commits=true)
